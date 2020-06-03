@@ -1,4 +1,4 @@
-# awesome-actions - template
+# awesome-actions
 
 Awesome actions is a repository template that comes with pre-configured GitHub Actions that
 * [create project board](.github/workflows/bootstrap.yml)
